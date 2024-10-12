@@ -1,0 +1,9 @@
+body {
+  background-color: #333333 !important;
+}
+.gsc-results {
+  background-color: transparent !important;
+}
+.gsc-result {
+  border-radius: 10px !important;
+}
